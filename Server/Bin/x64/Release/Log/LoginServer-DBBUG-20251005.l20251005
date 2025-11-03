@@ -1,0 +1,26 @@
+10-05-16:54:31.9744 33212 INetSessionMgr::LogText:42 [WRN] CUCODEListener::Start Listen 0:49997, ReuseAddr 1
+10-05-16:54:31.9857 33212 INetSessionMgr::LogText:42 [WRN] CUCODEListener::Start Listen 0:49996, ReuseAddr 1
+10-05-16:54:41.2582 33212 SDKAsynHandler::CheckLogin:690 GC Try To Login with uin:ss(2), sessionid:ss, platform:0
+10-05-16:54:41.2888 33212 SdkConnector::Update:610 Add uid:ss, sessionid:0ss
+10-05-16:54:41.2898 33212 SdkConnector::PostMsgToGC_NotifyServerList:713 Post Server List To User.
+10-05-16:54:42.3395 33212 CBalanceSession::Msg_Handle_OneClientLoginCheck:104 Erase uid:ss
+10-05-16:56:20.6997 33212 SDKAsynHandler::CheckLogin:690 GC Try To Login with uin:d(3), sessionid:d, platform:0
+10-05-16:56:20.7150 33212 SdkConnector::Update:610 Add uid:d, sessionid:0d
+10-05-16:56:20.7160 33212 SdkConnector::PostMsgToGC_NotifyServerList:713 Post Server List To User.
+10-05-16:56:23.3969 33212 CBalanceSession::Msg_Handle_OneClientLoginCheck:104 Erase uid:d
+10-05-17:01:10.0905 33212 SDKAsynHandler::CheckLogin:690 GC Try To Login with uin:d(4), sessionid:d, platform:0
+10-05-17:01:10.1219 33212 SdkConnector::Update:610 Add uid:d, sessionid:0d
+10-05-17:01:10.1229 33212 SdkConnector::PostMsgToGC_NotifyServerList:713 Post Server List To User.
+10-05-17:01:25.9505 33212 CBalanceSession::Msg_Handle_OneClientLoginCheck:104 Erase uid:d
+n:sdf(5), sessionid:sdfsdf, platform:0
+10-05-13:24:09.9354 68588 SdkConnector::Update:610 Add uid:sdf, sessionid:0sdf
+10-05-13:24:09.9362 68588 SdkConnector::PostMsgToGC_NotifyServerList:713 Post Server List To User.
+10-05-13:24:17.3630 68588 CBalanceSession::Msg_Handle_OneClientLoginCheck:104 Erase uid:sdf
+10-05-13:33:12.1030 68588 SDKAsynHandler::CheckLogin:690 GC Try To Login with uin:d(6), sessionid:d, platform:0
+10-05-13:33:12.1180 68588 SdkConnector::Update:610 Add uid:d, sessionid:0d
+10-05-13:33:12.1190 68588 SdkConnector::PostMsgToGC_NotifyServerList:713 Post Server List To User.
+10-05-13:33:12.9484 68588 CBalanceSession::Msg_Handle_OneClientLoginCheck:104 Erase uid:d
+10-05-15:25:26.2733 68588 SDKAsynHandler::CheckLogin:690 GC Try To Login with uin:gddfg(7), sessionid:ggg, platform:0
+10-05-15:25:26.3031 68588 SdkConnector::Update:610 Add uid:gddfg, sessionid:0gddfg
+10-05-15:25:26.3047 68588 SdkConnector::PostMsgToGC_NotifyServerList:713 Post Server List To User.
+10-05-15:25:27.0473 68588 CBalanceSession::Msg_Handle_OneClientLoginCheck:104 Erase uid:gddfg

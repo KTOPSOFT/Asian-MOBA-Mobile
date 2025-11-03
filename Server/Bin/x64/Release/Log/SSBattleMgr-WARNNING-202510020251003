@@ -1,0 +1,19 @@
+10-03-18:52:49.7277 3736 SceneServer::CSSGuideBattle::SetCaseDeadReasonInfo:304 guide GSToGC::GuideKillsInfo==>battleId:1, guid:60002, type:21019==
+10-03-18:53:25.5443 3736 SceneServer::CSSGuideBattle::SetCaseDeadReasonInfo:304 guide GSToGC::GuideKillsInfo==>battleId:1, guid:60002, type:10009==
+10-03-18:53:36.8443 3736 SceneServer::CSSGuideBattle::SetCaseDeadReasonInfo:304 guide GSToGC::GuideKillsInfo==>battleId:1, guid:60002, type:10008==
+10-03-18:53:46.3472 3736 SceneServer::CSSGuideBattle::SetCaseDeadReasonInfo:304 guide GSToGC::GuideKillsInfo==>battleId:1, guid:60002, type:10007==
+10-03-18:54:06.1562 3736 SceneServer::CSSGuideBattle::SetCaseDeadReasonInfo:304 guide GSToGC::GuideKillsInfo==>battleId:1, guid:60002, type:10009==
+10-03-18:54:08.5557 3736 SceneServer::CSSGuideBattle::SetCaseDeadReasonInfo:304 guide GSToGC::GuideKillsInfo==>battleId:1, guid:60002, type:21023==
+10-03-18:54:08.5587 3736 SceneServer::SSSolderSev::SetAltarBrokenAboutSuperSolder:43 shit , i can not find pathdid:1, altarIdx:108
+10-03-18:54:15.5560 3736 SceneServer::CSSGuideBattle::SetCaseDeadReasonInfo:304 guide GSToGC::GuideKillsInfo==>battleId:1, guid:60002, type:21023==
+10-03-18:54:15.5590 3736 SceneServer::SSSolderSev::SetAltarBrokenAboutSuperSolder:43 shit , i can not find pathdid:1, altarIdx:107
+10-03-18:54:29.4607 3736 SceneServer::CSSGuideBattle::SetCaseDeadReasonInfo:304 guide GSToGC::GuideKillsInfo==>battleId:1, guid:60002, type:10008==
+10-03-18:54:31.9609 3736 SceneServer::CSSGuideBattle::SetCaseDeadReasonInfo:304 guide GSToGC::GuideKillsInfo==>battleId:1, guid:60002, type:10007==
+10-03-18:54:43.2674 3736 SceneServer::CSSGuideBattle::SetCaseDeadReasonInfo:304 guide GSToGC::GuideKillsInfo==>battleId:1, guid:60002, type:10009==
+10-03-18:55:18.7896 3736 SceneServer::CSSGuideBattle::SetCaseDeadReasonInfo:304 guide GSToGC::GuideKillsInfo==>battleId:1, guid:60002, type:10007==
+10-03-18:55:23.9949 3736 SceneServer::CSSGuideBattle::SetCaseDeadReasonInfo:304 guide GSToGC::GuideKillsInfo==>battleId:1, guid:60002, type:10009==
+10-03-18:55:26.1929 3736 SceneServer::CSSGuideBattle::SetCaseDeadReasonInfo:304 guide GSToGC::GuideKillsInfo==>battleId:1, guid:60002, type:10008==
+10-03-18:55:44.6994 67080 SceneServer::CSSWorkThreadMgr::SendCSMsgToLogicThread:135 Not handle cs msgid:16510
+10-03-18:55:44.7064 3736 SceneServer::CSSGuideBattle::CheckPlayTimeout:503 all users offline, so finish it.
+10-03-19:00:56.8689 67080 SceneServer::CSSWorkThreadMgr::SendCSMsgToLogicThread:135 Not handle cs msgid:16510
+10-03-19:00:56.8909 76840 SceneServer::CSSGuideBattle::CheckPlayTimeout:503 all users offline, so finish it.

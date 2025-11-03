@@ -1,0 +1,39 @@
+10-16-23:16:08.9747 98688 SceneServer::CSSCfgMgr::LoadMapObjCfg:901  Load 38 map obj cfg.
+10-16-23:16:08.9793 98688 SceneServer::CSSCfgMgr::LoadMapCfg:787  load 4 map.
+10-16-23:16:09.0876 98688 INetSessionMgr::LogText:42 [WRN] CUCODEListener::Start Listen 0:20001, ReuseAddr 1
+10-16-23:16:11.1023 98688 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10001
+10-16-23:16:13.1074 98688 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10001
+10-16-23:35:48.8490 98688 SceneServer::CSSWorkThreadMgr::SendCSMsgToLogicThread:49 Send To 0 actor and now it hv 0 battle
+10-16-23:36:01.3394 101860 SceneServer::CSSUser::ClearNetInfo:71 clear nsid:4
+10-16-23:36:01.3464 101860 SceneServer::CSSBattle::PostMsgToCS_BattleEnd:127 herokills:0.
+10-16-23:36:01.5994 101860 SceneServer::CSSBattle::~CSSBattle:72 Destroy a battle : 1
+10-16-23:36:56.5259 98688 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10001
+:10001
+10-16-07:32:59.9280 92356 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10001
+10-16-07:33:09.9442 92356 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10001
+10-16-07:33:19.9588 92356 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10001
+10-16-07:33:29.9748 92356 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10001
+10-16-07:33:39.9911 92356 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10001
+10-16-07:33:50.0037 92356 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10001
+10-16-07:34:00.0223 92356 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10001
+10-16-07:34:10.0366 92356 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10001
+10-16-07:34:20.0530 92356 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10001
+10-16-07:34:30.0662 92356 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10001
+10-16-07:34:40.0857 92356 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10001
+10-16-07:34:50.1021 92356 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10001
+10-16-07:35:00.1188 92356 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10001
+10-16-07:35:10.1305 92356 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10001
+10-16-07:35:20.1463 92356 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10001
+10-16-07:35:30.1609 92356 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10001
+10-16-07:35:40.1773 92356 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10001
+10-16-07:35:50.1932 92356 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10001
+10-16-07:36:00.2084 92356 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10001
+10-16-07:36:10.2261 92356 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10001
+10-16-07:36:20.2404 92356 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10001
+10-16-07:36:30.2535 92356 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10001
+10-16-07:36:39.6927 92356 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:1234
+10-16-07:36:40.2713 92356 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10001
+10-16-07:36:49.6926 92356 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:1234
+10-16-07:36:50.2880 92356 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10001
+10-16-07:36:59.7084 92356 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:1234
+10-16-07:37:00.3068 92356 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10001

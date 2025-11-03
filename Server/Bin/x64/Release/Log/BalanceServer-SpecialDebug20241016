@@ -1,0 +1,2 @@
+10-16-23:35:07.3810 96468 CClientSession::MSG_OneClientLogin:58 user(name)(pass)(3) ask login bs
+10-16-23:35:07.4702 96468 CB2LSession::Msg_User_Login:61 user(name)(pass)(3) ask login ret

@@ -1,0 +1,40 @@
+10-03-18:15:58.4305 45520 INetSessionMgr::LogText:42 [WRN] CUCODEListener::Start Listen 0:49997, ReuseAddr 1
+10-03-18:15:58.4455 45520 INetSessionMgr::LogText:42 [WRN] CUCODEListener::Start Listen 0:49996, ReuseAddr 1
+10-03-18:16:24.1793 45520 SDKAsynHandler::CheckLogin:690 GC Try To Login with uin:BlueAngel(2), sessionid:asdasd, platform:0
+10-03-18:16:24.2096 45520 SdkConnector::Update:610 Add uid:BlueAngel, sessionid:0BlueAngel
+10-03-18:16:24.2106 45520 SdkConnector::PostMsgToGC_NotifyServerList:713 Post Server List To User.
+10-03-18:21:15.5955 45520 SDKAsynHandler::CheckLogin:690 GC Try To Login with uin:sss(3), sessionid:sss, platform:0
+10-03-18:21:15.6253 45520 SdkConnector::Update:610 Add uid:sss, sessionid:0sss
+10-03-18:21:15.6263 45520 SdkConnector::PostMsgToGC_NotifyServerList:713 Post Server List To User.
+10-03-18:24:21.6098 45520 SDKAsynHandler::CheckLogin:690 GC Try To Login with uin:ss(4), sessionid:ss, platform:0
+10-03-18:24:21.6247 45520 SdkConnector::Update:610 Add uid:ss, sessionid:0ss
+10-03-18:24:21.6257 45520 SdkConnector::PostMsgToGC_NotifyServerList:713 Post Server List To User.
+10-03-18:24:36.1773 45520 SDKAsynHandler::CheckLogin:690 GC Try To Login with uin:ss(5), sessionid:sss, platform:0
+10-03-18:24:36.1920 45520 SdkConnector::Update:610 Add uid:ss, sessionid:0ss
+10-03-18:24:36.1937 45520 SdkConnector::PostMsgToGC_NotifyServerList:713 Post Server List To User.
+10-03-18:27:32.2320 45520 SDKAsynHandler::CheckLogin:690 GC Try To Login with uin:dsf(6), sessionid:sdfsd, platform:0
+10-03-18:27:32.2470 45520 SdkConnector::Update:610 Add uid:dsf, sessionid:0dsf
+10-03-18:27:32.2480 45520 SdkConnector::PostMsgToGC_NotifyServerList:713 Post Server List To User.
+10-03-18:30:03.2087 45520 SDKAsynHandler::CheckLogin:690 GC Try To Login with uin:sdf(7), sessionid:fff, platform:0
+10-03-18:30:03.2387 45520 SdkConnector::Update:610 Add uid:sdf, sessionid:0sdf
+10-03-18:30:03.2397 45520 SdkConnector::PostMsgToGC_NotifyServerList:713 Post Server List To User.
+10-03-18:31:57.5170 45520 SDKAsynHandler::CheckLogin:690 GC Try To Login with uin:dd(8), sessionid:ff, platform:0
+10-03-18:31:57.5321 45520 SdkConnector::Update:610 Add uid:dd, sessionid:0dd
+10-03-18:31:57.5341 45520 SdkConnector::PostMsgToGC_NotifyServerList:713 Post Server List To User.
+10-03-18:32:01.6096 45520 CBalanceSession::Msg_Handle_OneClientLoginCheck:104 Erase uid:dd
+10-03-18:36:30.4643 45520 SDKAsynHandler::CheckLogin:690 GC Try To Login with uin:sdf(9), sessionid:fff, platform:0
+10-03-18:36:30.4949 45520 SdkConnector::Update:610 Add uid:sdf, sessionid:0sdf
+10-03-18:36:30.4965 45520 SdkConnector::PostMsgToGC_NotifyServerList:713 Post Server List To User.
+10-03-18:36:32.4890 45520 CBalanceSession::Msg_Handle_OneClientLoginCheck:104 Erase uid:sdf
+10-03-18:40:08.1631 45520 SDKAsynHandler::CheckLogin:690 GC Try To Login with uin:sdff(10), sessionid:fesef, platform:0
+10-03-18:40:08.1928 45520 SdkConnector::Update:610 Add uid:sdff, sessionid:0sdff
+10-03-18:40:08.1938 45520 SdkConnector::PostMsgToGC_NotifyServerList:713 Post Server List To User.
+10-03-18:40:11.5784 45520 CBalanceSession::Msg_Handle_OneClientLoginCheck:104 Erase uid:sdff
+10-03-18:48:05.6933 45520 SDKAsynHandler::CheckLogin:690 GC Try To Login with uin:AAA(11), sessionid:AAA, platform:0
+10-03-18:48:05.7228 45520 SdkConnector::Update:610 Add uid:AAA, sessionid:0AAA
+10-03-18:48:05.7238 45520 SdkConnector::PostMsgToGC_NotifyServerList:713 Post Server List To User.
+10-03-18:48:06.7199 45520 CBalanceSession::Msg_Handle_OneClientLoginCheck:104 Erase uid:AAA
+10-03-18:59:17.0298 45520 SDKAsynHandler::CheckLogin:690 GC Try To Login with uin:dfg(12), sessionid:fff, platform:0
+10-03-18:59:17.0602 45520 SdkConnector::Update:610 Add uid:dfg, sessionid:0dfg
+10-03-18:59:17.0617 45520 SdkConnector::PostMsgToGC_NotifyServerList:713 Post Server List To User.
+10-03-18:59:17.9496 45520 CBalanceSession::Msg_Handle_OneClientLoginCheck:104 Erase uid:dfg

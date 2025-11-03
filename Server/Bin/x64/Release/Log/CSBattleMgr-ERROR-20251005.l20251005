@@ -1,0 +1,16 @@
+10-05-16:54:31.3012 45072 CentralServer::CCSCfgMgr::LoadGoodsCfg:574 sValVec.size() != sAtrrVec.size()
+10-05-16:54:31.3032 45072 CentralServer::CCSCfgMgr::LoadGoodsCfg:574 sValVec.size() != sAtrrVec.size()
+10-05-16:54:31.3042 45072 CentralServer::CCSCfgMgr::LoadGoodsCfg:574 sValVec.size() != sAtrrVec.size()
+10-05-16:54:33.3687 45072 DBActiveWrapper::DBActiveWrapper:14 #####  i can not connect db,ret:-1,dbip:127.0.0.1,dbName:FBAll_GameDB_1###########
+10-05-16:54:33.3803 55096 CentralServer::CCSUserMgr::DBAsyn_QueryWhenThreadBegin:60 --errorCode:2006,errorStr:MySQL server has gone away
+10-05-16:54:35.3844 45072 DBActiveWrapper::DBActiveWrapper:14 #####  i can not connect db,ret:-1,dbip:127.0.0.1,dbName:FBAll_AccountDB###########
+10-05-16:54:37.4035 45072 DBActiveWrapper::DBActiveWrapper:14 #####  i can not connect db,ret:-1,dbip:127.0.0.1,dbName:FBAll_GameDB_1###########
+10-05-16:54:39.4389 45072 DBActiveWrapper::DBActiveWrapper:14 #####  i can not connect db,ret:-1,dbip:127.0.0.1,dbName:FBAll_GameDB_1###########
+10-05-16:56:23.4526 60248 CentralServer::CCSUserMgr::DBAsyn_ExeSQL:474 MySQL server has gone away
+10-05-16:56:27.5272 60248 CentralServer::CCSUserMgr::DBAsynChangeNickNameCallBack:462 
+10-05-12:26:51.1019 37656 CentralServer::CCSUserMgr::DBAsyn_ExeSQL:474 MySQL server has gone away
+10-05-12:27:00.4834 37656 CentralServer::CCSUserMgr::DBAsynChangeNickNameCallBack:462 
+10-05-13:33:13.0024 37656 CentralServer::CCSUserMgr::DBAsyn_ExeSQL:474 MySQL server has gone away
+10-05-13:33:16.7507 37656 CentralServer::CCSUserMgr::DBAsynChangeNickNameCallBack:462 
+10-05-15:25:27.1025 37656 CentralServer::CCSUserMgr::DBAsyn_ExeSQL:474 MySQL server has gone away
+10-05-15:25:31.6931 37656 CentralServer::CCSUserMgr::DBAsynChangeNickNameCallBack:462 

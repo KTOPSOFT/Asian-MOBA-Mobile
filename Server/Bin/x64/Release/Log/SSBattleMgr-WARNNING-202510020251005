@@ -1,0 +1,4 @@
+10-05-13:36:29.1532 16424 SceneServer::CSSHero::ChangeCurHP:1641 Not Find killer hero.
+10-05-13:36:58.6653 16424 SceneServer::CSSHero::ChangeCurHP:1641 Not Find killer hero.
+10-05-13:37:09.2562 16424 SceneServer::CSSBattle::CheckPlayTimeout:409 all users offline, so finish it.
+10-05-13:37:09.2678 19616 SceneServer::CSSWorkThreadMgr::SendCSMsgToLogicThread:135 Not handle cs msgid:16510

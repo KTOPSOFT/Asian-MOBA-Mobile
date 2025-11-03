@@ -1,0 +1,33 @@
+10-05-16:54:31.2942 11428 SceneServer::CSSCfgMgr::LoadMapStaticData:970 Add 1000 MapStaticData
+10-05-16:54:31.2972 11428 SceneServer::CSSCfgMgr::LoadMapStaticData:970 Add 1001 MapStaticData
+10-05-16:54:31.3012 11428 SceneServer::CSSCfgMgr::LoadMapStaticData:970 Add 1002 MapStaticData
+10-05-16:54:31.3102 11428 SceneServer::CSSCfgMgr::LoadMapStaticData:970 Add 1003 MapStaticData
+10-05-16:54:32.3511 11428 CSSLogSession::SendInitData:28  LogServer Connected, try to register me.
+10-05-16:54:43.3680 11428 CCentralSession::SendInitData:30 CS Connected, try to register me.
+10-05-16:54:43.3720 11428 CCentralSession::Msg_Handle_Init:90 GSKernel Start success, Got 10 GSInfo and 7 GS defined, Milsec error 192.
+10-05-16:54:43.3740 11428 CCentralSession::OnRealEstablish:41 CS Connected and register ok, try to ask global config.
+10-05-16:54:43.3760 11428 SceneServer::CSSCfgMgr::OnMsgFromCS_NotifyGameSwitchCfg:1359 --set this ss gamelog switch .....ok!--
+10-05-16:54:43.3780 11428 SceneServer::CSSCfgMgr::OnMsgFromCS_NotifyNPCCfgList:1035 Load 52 Cfgs.
+10-05-16:54:43.3790 11428 SceneServer::CSSCfgMgr::OnMsgFromCS_NotifyHeroCfgList:1049 Load 22 Cfgs.
+10-05-16:54:43.3810 11428 SceneServer::CSSCfgMgr::OnMsgFromCS_NotifyShopCfgList:1077 Load 3 Cfgs.
+10-05-16:54:43.3820 11428 SceneServer::CSSCfgMgr::OnMsgFromCS_NotifyGoodsCfgList:1063 Load 103 Cfgs.
+10-05-16:54:43.3840 11428 SceneServer::CSSCfgMgr::OnMsgFromCS_NotifyRobotAICfgList:1091 Load 609 Cfgs.
+10-05-16:54:43.3850 11428 SceneServer::CSSCfgMgr::OnMsgFromCS_NotifyRobotAIPathCfgList:1105 Load 197 Cfgs.
+10-05-16:54:43.3870 11428 SceneServer::CSSCfgMgr::OnMsgFromCS_NotifyNewSkillCfgList:1119 Load 268 Cfgs.
+10-05-16:54:43.3880 11428 SceneServer::CSSCfgMgr::OnMsgFromCS_NotifySkillModelAccountCfgCfgList:1133 Load 322 Cfgs.
+10-05-16:54:43.3898 11428 SceneServer::CSSCfgMgr::OnMsgFromCS_NotifySkillModelEmitCfgList:1147 Load 96 Cfgs.
+10-05-16:54:43.3918 11428 SceneServer::CSSCfgMgr::OnMsgFromCS_NotifySkillModelRangeCfgList:1161 Load 123 Cfgs.
+10-05-16:54:43.3928 11428 SceneServer::CSSCfgMgr::OnMsgFromCS_NotifySkillModelLeadingCfgList:1175 Load 17 Cfgs.
+10-05-16:54:43.3948 11428 SceneServer::CSSCfgMgr::OnMsgFromCS_NotifySkillModelBufCfgList:1189 Load 302 Cfgs.
+10-05-16:54:43.3958 11428 SceneServer::CSSCfgMgr::OnMsgFromCS_NotifySkillModelSummonCfgList:1203 Load 5 Cfgs.
+10-05-16:54:43.3978 11428 SceneServer::CSSCfgMgr::OnMsgFromCS_NotifySkillModelMoveCfgList:1217 Load 26 Cfgs.
+10-05-16:54:43.3998 11428 SceneServer::CSSCfgMgr::OnMsgFromCS_NotifySkillModelSwitchCfgList:1232 Load 1 Cfgs.
+10-05-16:54:43.4008 11428 SceneServer::CSSCfgMgr::OnMsgFromCS_NotifySkillModelPurificationCfgList:1247 Load 1 Cfgs.
+10-05-16:54:43.4023 11428 SceneServer::CSSCfgMgr::OnMsgFromCS_NotifySkillModelLinkCfgList:1262 Load 1 Cfgs.
+10-05-16:54:43.4043 11428 SceneServer::CSSCfgMgr::OnMsgFromCS_NotifyPassitiveSkillCfgList:1276 Load 126 Cfgs.
+10-05-16:54:43.4053 11428 SceneServer::CSSCfgMgr::OnMsgFromCS_NotifyPassitiveEffectBloodSeekCfgList:1290 Load 6 Cfgs.
+10-05-16:54:43.4073 11428 SceneServer::CSSCfgMgr::OnMsgFromCS_NotifyPassitiveEffectReboundCfgList:1304 Load 4 Cfgs.
+10-05-16:54:43.4093 11428 SceneServer::CSSCfgMgr::OnMsgFromCS_NotifyPassitiveEffectReliveCfgList:1319 Load 1 Cfgs.
+10-05-16:54:43.5905 11428 SceneServer::CSSWorkThreadMgr::OnMsgFromGS_GSAskRegiste:224 GS 30001 registed at net session 3.
+10-05-16:54:43.5914 11428 CGateSession::OnRealEstablish:39 GS(30001) Connected.
+10-06-05:15:08.1754 11428 CCentralSession::OnClose:47 CS DisConnect.

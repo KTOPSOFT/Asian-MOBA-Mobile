@@ -1,0 +1,29 @@
+10-03-18:32:01.6661 9940 CentralServer::CCSUserMgr::OnMgrFromGC_AskLogin:102 --new login msg!dd--
+10-03-18:34:39.0487 9940 CentralServer::CCSUserMgr::ChangeUserNickName:115 user szUserName:dd, nickName:ä¹±åˆ€é­…å½±
+10-03-18:36:32.5416 9940 CentralServer::CCSUserMgr::OnMgrFromGC_AskLogin:102 --new login msg!sdf--
+10-03-18:40:11.6125 9940 CentralServer::CCSUserMgr::OnMgrFromGC_AskLogin:102 --new login msg!sdff--
+10-03-18:41:41.9579 9940 CentralServer::CCSUserMgr::ChangeUserNickName:115 user szUserName:sdff, nickName:BlueAngel
+10-03-18:48:06.7711 9940 CentralServer::CCSUserMgr::OnMgrFromGC_AskLogin:102 --new login msg!AAA--
+10-03-18:48:11.3226 9940 CentralServer::CCSUserMgr::ChangeUserNickName:115 user szUserName:AAA, nickName:AAA
+10-03-18:49:40.4333 9940 CentralServer::CCSBattle::CCSBattle:33 create battle(1)
+10-03-18:49:40.4353 9940 CentralServer::CCSBattle::CCSBattle:43 battle(1) add user(4001)
+10-03-18:55:44.6943 9940 CentralServer::CCSBattle::OnFinish:236 destory battle(1)
+10-03-18:55:44.6973 9940 CentralServer::CCSBattle::OnFinish:242 battle(1) remove user(4001)
+10-03-18:55:44.6994 9940 CentralServer::CCSUserBattleInfo::Clear:64 user(AAA) clear by reason(2)
+10-03-18:55:44.7054 9940 CentralServer::CCSUserMgr::CheckIfCanRemoveUser:663 É¾³ýÍæ¼Ò!
+10-03-18:59:18.0018 9940 CentralServer::CCSUserMgr::OnMgrFromGC_AskLogin:102 --new login msg!dfg--
+10-03-18:59:22.6093 9940 CentralServer::CCSUserMgr::ChangeUserNickName:115 user szUserName:dfg, nickName:dfgd
+10-03-18:59:25.6067 9940 CentralServer::CCSBattle::CCSBattle:33 create battle(2)
+10-03-18:59:25.6085 9940 CentralServer::CCSBattle::CCSBattle:43 battle(2) add user(5001)
+10-03-19:00:56.8629 9940 CentralServer::CCSBattle::OnFinish:236 destory battle(2)
+10-03-19:00:56.8649 9940 CentralServer::CCSBattle::OnFinish:242 battle(2) remove user(5001)
+10-03-19:00:56.8689 9940 CentralServer::CCSUserBattleInfo::Clear:64 user(dfg) clear by reason(2)
+10-03-19:00:56.8749 9940 CentralServer::CCSUserMgr::CheckIfCanRemoveUser:663 É¾³ýÍæ¼Ò!
+33 create battle(2)
+10-03-17:49:29.1544 45304 CentralServer::CCSBattle::CCSBattle:43 battle(2) add user(1001)
+10-03-17:57:29.4363 45304 CentralServer::CCSBattle::CaculateExp:363 ExpAddition:0.
+10-03-17:57:29.4383 45304 CentralServer::CCSBattle::CaculateGold:400 GoldAddition:0.
+10-03-17:57:29.4413 45304 CentralServer::CCSBattle::OnFinish:236 destory battle(2)
+10-03-17:57:29.4423 45304 CentralServer::CCSBattle::OnFinish:242 battle(2) remove user(1001)
+10-03-17:57:29.4439 45304 CentralServer::CCSUserBattleInfo::Clear:64 user(AAA) clear by reason(2)
+10-03-17:57:29.4489 45304 CentralServer::CCSUserMgr::CheckIfCanRemoveUser:663 É¾³ýÍæ¼Ò!

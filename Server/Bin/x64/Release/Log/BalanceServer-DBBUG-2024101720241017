@@ -1,0 +1,7 @@
+10-17-16:44:52.9217 7744 INetSessionMgr::LogText:42 [WRN] CUCODEListener::Start Listen 0:49999, ReuseAddr 1
+10-17-16:44:52.9287 7744 INetSessionMgr::LogText:42 [WRN] CUCODEListener::Start Listen 0:49998, ReuseAddr 1
+
+3:10:56.3545 984 INetSessionMgr::LogText:42 [WRN] CUCODEListener::Start Listen 0:49998, ReuseAddr 1
+10-17-13:10:56.3567 984 INetSessionMgr::LogText:42 [CRT] ?????????, bind at 0:49998 failed, errno 10013
+13:07:32.6427 9044 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:49997
+10-17-13:07:42.6511 9044 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:49997

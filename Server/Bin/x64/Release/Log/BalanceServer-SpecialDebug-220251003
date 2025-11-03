@@ -1,0 +1,10 @@
+10-03-18:32:01.5949 65624 CClientSession::MSG_OneClientLogin:58 user(dd)(ff)(3) ask login bs
+10-03-18:32:01.6246 65624 CB2LSession::Msg_User_Login:61 user(dd)(ff)(3) ask login ret
+10-03-18:36:32.4740 65624 CClientSession::MSG_OneClientLogin:58 user(sdf)(fff)(4) ask login bs
+10-03-18:36:32.5041 65624 CB2LSession::Msg_User_Login:61 user(sdf)(fff)(4) ask login ret
+10-03-18:40:11.5638 65624 CClientSession::MSG_OneClientLogin:58 user(sdff)(fesef)(5) ask login bs
+10-03-18:40:11.5784 65624 CB2LSession::Msg_User_Login:61 user(sdff)(fesef)(5) ask login ret
+10-03-18:48:06.7042 65624 CClientSession::MSG_OneClientLogin:58 user(AAA)(AAA)(6) ask login bs
+10-03-18:48:06.7349 65624 CB2LSession::Msg_User_Login:61 user(AAA)(AAA)(6) ask login ret
+10-03-18:59:17.9346 65624 CClientSession::MSG_OneClientLogin:58 user(dfg)(fff)(7) ask login bs
+10-03-18:59:17.9646 65624 CB2LSession::Msg_User_Login:61 user(dfg)(fff)(7) ask login ret

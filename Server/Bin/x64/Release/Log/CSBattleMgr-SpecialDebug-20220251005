@@ -1,0 +1,52 @@
+10-05-16:56:23.4496 45072 CentralServer::CCSUserMgr::OnMgrFromGC_AskLogin:102 --new login msg!d--
+10-05-16:56:27.5254 45072 CentralServer::CCSUserMgr::ChangeUserNickName:115 user szUserName:d, nickName:FFF
+10-05-17:01:26.0042 45072 CentralServer::CCSUserMgr::OnMgrFromGC_AskLogin:102 --new login msg!d--
+f--
+10-05-12:27:00.4814 28756 CentralServer::CCSUserMgr::ChangeUserNickName:115 user szUserName:sdf, nickName:Ë°ÄÂÜ•Â∞ÜÂÜõ
+10-05-13:24:17.4115 28756 CentralServer::CCSUserMgr::OnMgrFromGC_AskLogin:102 --new login msg!sdf--
+10-05-13:33:12.9984 28756 CentralServer::CCSUserMgr::OnMgrFromGC_AskLogin:102 --new login msg!d--
+10-05-13:33:16.7497 28756 CentralServer::CCSUserMgr::ChangeUserNickName:115 user szUserName:d, nickName:AA
+10-05-13:34:34.4095 28756 CCSMatchRoom_Nomal::CCSMatchRoom_Nomal:86 ∑øº‰∫≈1£∫ø™ º ±º‰Sun Oct 05 13:34:34 2025
+
+10-05-13:34:34.4125 28756 CCSMatchRoom_Nomal::CCSMatchRoom_Nomal:87 ∑øº‰∫≈1£∫÷¡…Ÿ2»À ±º‰Sun Oct 05 13:34:35 2025
+
+10-05-13:34:34.4145 28756 CCSMatchRoom_Nomal::CCSMatchRoom_Nomal:88 ∑øº‰∫≈1£∫÷¡…Ÿ3»À ±º‰Sun Oct 05 13:34:36 2025
+
+10-05-13:34:34.4165 28756 CCSMatchRoom_Nomal::CCSMatchRoom_Nomal:89 ∑øº‰∫≈1£∫÷¡…Ÿ4»À ±º‰Sun Oct 05 13:34:37 2025
+
+10-05-13:34:34.4185 28756 CCSMatchRoom_Nomal::CCSMatchRoom_Nomal:90 ∑øº‰∫≈1£∫÷¡…Ÿ5»À ±º‰Sun Oct 05 13:34:41 2025
+
+10-05-13:34:34.4205 28756 CCSMatchRoom_Nomal::CCSMatchRoom_Nomal:91 ∑øº‰∫≈1£∫Ω· ¯ ±º‰Sun Oct 05 13:34:44 2025
+
+10-05-13:34:38.3551 28756 CCSMatchRoom_Nomal::CCSMatchRoom_Nomal:86 ∑øº‰∫≈2£∫ø™ º ±º‰Sun Oct 05 13:34:38 2025
+
+10-05-13:34:38.3571 28756 CCSMatchRoom_Nomal::CCSMatchRoom_Nomal:87 ∑øº‰∫≈2£∫÷¡…Ÿ2»À ±º‰Sun Oct 05 13:34:46 2025
+
+10-05-13:34:38.3591 28756 CCSMatchRoom_Nomal::CCSMatchRoom_Nomal:88 ∑øº‰∫≈2£∫÷¡…Ÿ3»À ±º‰Sun Oct 05 13:34:48 2025
+
+10-05-13:34:38.3611 28756 CCSMatchRoom_Nomal::CCSMatchRoom_Nomal:89 ∑øº‰∫≈2£∫÷¡…Ÿ4»À ±º‰Sun Oct 05 13:34:50 2025
+
+10-05-13:34:38.3631 28756 CCSMatchRoom_Nomal::CCSMatchRoom_Nomal:90 ∑øº‰∫≈2£∫÷¡…Ÿ5»À ±º‰Sun Oct 05 13:34:51 2025
+
+10-05-13:34:38.3649 28756 CCSMatchRoom_Nomal::CCSMatchRoom_Nomal:91 ∑øº‰∫≈2£∫Ω· ¯ ±º‰Sun Oct 05 13:34:58 2025
+
+10-05-13:34:47.0077 28756 CCSMatchRoom_Nomal::Update:165 ∑øº‰∫≈2£∫Ã¯◊™ ±º‰Sun Oct 05 13:34:47 2025
+
+10-05-13:34:49.0183 28756 CCSMatchRoom_Nomal::Update:165 ∑øº‰∫≈2£∫Ã¯◊™ ±º‰Sun Oct 05 13:34:49 2025
+
+10-05-13:34:51.0295 28756 CCSMatchRoom_Nomal::Update:165 ∑øº‰∫≈2£∫Ã¯◊™ ±º‰Sun Oct 05 13:34:51 2025
+
+10-05-13:34:52.0324 28756 CCSMatchRoom_Nomal::Update:165 ∑øº‰∫≈2£∫Ã¯◊™ ±º‰Sun Oct 05 13:34:52 2025
+
+10-05-13:34:59.0642 28756 CCSMatchRoom_Nomal::Update:165 ∑øº‰∫≈2£∫Ã¯◊™ ±º‰Sun Oct 05 13:34:59 2025
+
+10-05-13:34:59.1650 28756 CentralServer::CCSBattle::CCSBattle:33 create battle(1)
+10-05-13:34:59.1670 28756 CentralServer::CCSBattle::CCSBattle:43 battle(1) add user(3001)
+10-05-13:37:09.2592 28756 CentralServer::CCSBattle::CaculateExp:363 ExpAddition:0.
+10-05-13:37:09.2622 28756 CentralServer::CCSBattle::CaculateGold:400 GoldAddition:0.
+10-05-13:37:09.2658 28756 CentralServer::CCSBattle::OnFinish:236 destory battle(1)
+10-05-13:37:09.2678 28756 CentralServer::CCSBattle::OnFinish:242 battle(1) remove user(3001)
+10-05-13:37:09.2698 28756 CentralServer::CCSUserBattleInfo::Clear:64 user(d) clear by reason(2)
+10-05-13:37:09.2738 28756 CentralServer::CCSUserMgr::CheckIfCanRemoveUser:663 …æ≥˝ÕÊº“!
+10-05-15:25:27.0995 28756 CentralServer::CCSUserMgr::OnMgrFromGC_AskLogin:102 --new login msg!gddfg--
+10-05-15:25:31.6911 28756 CentralServer::CCSUserMgr::ChangeUserNickName:115 user szUserName:gddfg, nickName:ssss

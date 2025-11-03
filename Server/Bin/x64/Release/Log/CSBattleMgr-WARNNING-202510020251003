@@ -1,0 +1,16 @@
+10-03-18:16:02.1218 77668 CentralServer::CCSUserMgr::CDKThreadBeginCallback:101 --errorCode:2006,errorStr:MySQL server has gone away
+10-03-18:32:01.6731 53940 CentralServer::CCSUserMgr::DBAsynUpdateUserCallback:52 error:begin;1001, crrorcode:2006, msg:MySQL server has gone away!
+10-03-18:34:39.0536 53940 CentralServer::CCSUserMgr::DBAsynUpdateUserCallback:52 error:begin;1001, crrorcode:2006, msg:MySQL server has gone away!
+10-03-18:36:32.5473 53940 CentralServer::CCSUserMgr::DBAsynUpdateUserCallback:52 error:begin;2001, crrorcode:2006, msg:MySQL server has gone away!
+10-03-18:39:04.4277 53940 CentralServer::CCSUserMgr::DBAsynUpdateUserCallback:52 error:begin;2001, crrorcode:2006, msg:MySQL server has gone away!
+10-03-18:40:11.6190 53940 CentralServer::CCSUserMgr::DBAsynUpdateUserCallback:52 error:begin;3001, crrorcode:2006, msg:MySQL server has gone away!
+10-03-18:41:41.9619 53940 CentralServer::CCSUserMgr::DBAsynUpdateUserCallback:52 error:begin;3001, crrorcode:2006, msg:MySQL server has gone away!
+10-03-18:43:11.6142 53940 CentralServer::CCSUserMgr::DBAsynUpdateUserCallback:52 error:begin;3001, crrorcode:2006, msg:MySQL server has gone away!
+10-03-18:48:06.7779 53940 CentralServer::CCSUserMgr::DBAsynUpdateUserCallback:52 error:begin;4001, crrorcode:2006, msg:MySQL server has gone away!
+10-03-18:48:11.3266 53940 CentralServer::CCSUserMgr::DBAsynUpdateUserCallback:52 error:begin;4001, crrorcode:2006, msg:MySQL server has gone away!
+10-03-18:55:44.7014 53940 CentralServer::CCSUserMgr::DBAsynUpdateUserCallback:52 error:begin;4001, crrorcode:2006, msg:MySQL server has gone away!
+10-03-18:59:18.0084 53940 CentralServer::CCSUserMgr::DBAsynUpdateUserCallback:52 error:begin;5001, crrorcode:2006, msg:MySQL server has gone away!
+10-03-18:59:22.6133 53940 CentralServer::CCSUserMgr::DBAsynUpdateUserCallback:52 error:begin;5001, crrorcode:2006, msg:MySQL server has gone away!
+10-03-19:00:56.8719 53940 CentralServer::CCSUserMgr::DBAsynUpdateUserCallback:52 error:begin;5001, crrorcode:2006, msg:MySQL server has gone away!
+10-03-19:14:10.1004 9940 CRedisSession::OnClose:59 与Redis断开连接!
+10-03-19:14:11.3029 9940 CLogicRedisSession::OnClose:49 与Redis断开连接!

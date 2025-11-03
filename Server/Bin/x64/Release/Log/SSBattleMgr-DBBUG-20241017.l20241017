@@ -1,0 +1,16 @@
+10-17-16:44:52.8623 12420 SceneServer::CSSCfgMgr::LoadMapObjCfg:901  Load 38 map obj cfg.
+10-17-16:44:52.8709 12420 SceneServer::CSSCfgMgr::LoadMapCfg:787  load 4 map.
+10-17-16:44:52.9140 12420 INetSessionMgr::LogText:42 [WRN] CUCODEListener::Start Listen 0:20001, ReuseAddr 1
+10-17-16:44:54.9463 12420 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10001
+10-17-16:44:56.9795 12420 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10001
+10-17-16:46:06.9192 12420 SceneServer::CSSWorkThreadMgr::SendCSMsgToLogicThread:49 Send To 0 actor and now it hv 0 battle
+10-17-16:46:22.0112 1392 SceneServer::CSSHero::SynGoodsUseStateToGC:1357 un8GridID:0, num:1, eOT:30001 n32RemainCoolTime:0
+10-17-16:47:02.7670 1392 SceneServer::CSSUser::ClearNetInfo:71 clear nsid:4
+10-17-16:47:02.7680 1392 SceneServer::CSSBattle::PostMsgToCS_BattleEnd:127 herokills:0.
+10-17-16:47:02.8550 1392 SceneServer::CSSBattle::~CSSBattle:72 Destroy a battle : 1
+-17-16:34:11.9049 7772 SceneServer::CSSWorkThreadMgr::SendCSMsgToLogicThread:49 Send To 1 actor and now it hv 0 battle
+10-17-16:34:25.6119 16332 SceneServer::CSSHero::SynGoodsUseStateToGC:1357 un8GridID:0, num:1, eOT:30001 n32RemainCoolTime:0
+10-17-16:35:33.0276 16332 SceneServer::CSSUser::ClearNetInfo:71 clear nsid:5
+10-17-16:35:33.0301 16332 SceneServer::CSSBattle::PostMsgToCS_BattleEnd:127 herokills:0.
+10-17-16:35:33.0412 16332 SceneServer::CSSBattle::~CSSBattle:72 Destroy a battle : 2
+10-17-16:36:35.3874 7772 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:1234

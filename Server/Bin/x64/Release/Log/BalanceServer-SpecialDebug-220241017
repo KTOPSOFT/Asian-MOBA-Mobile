@@ -1,0 +1,5 @@
+10-17-16:45:23.8888 7744 CClientSession::MSG_OneClientLogin:58 user(123)(123)(3) ask login bs
+10-17-16:45:23.9190 7744 CB2LSession::Msg_User_Login:61 user(123)(123)(3) ask login ret
+3) ask login ret
+10-17-16:33:57.3704 16128 CClientSession::MSG_OneClientLogin:58 user(test)(sellunitycode)(4) ask login bs
+10-17-16:33:57.3855 16128 CB2LSession::Msg_User_Login:61 user(test)(sellunitycode)(4) ask login ret

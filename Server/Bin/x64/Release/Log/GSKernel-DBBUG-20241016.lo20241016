@@ -1,0 +1,34 @@
+10-16-23:16:09.0270 108624 INetSessionMgr::LogText:42 [WRN] CUCODEListener::Start Listen 0:40001, ReuseAddr 1
+10-16-23:16:11.0399 108624 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10002
+10-16-23:16:13.0476 108624 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10002
+10-16-23:16:21.1015 108624 CM2CSession::Msg_Handle_Init:77 m_un32MaxSSNum:15
+10-16-23:35:07.7952 108624 CClientSession::OnRealEstablish:38 client(4)(192.168.0.1:62790) connected.
+10-16-23:35:07.8330 108624 GateServer::CGSKernel::OnMsgFromGC:57 client(4) ask login(name)(7C4CB1042BDF421F8E79C53E4CD30415)
+10-16-23:36:01.3087 108624 CClientSession::OnClose:46 client(4)(192.168.0.1:62790) disconnected.
+10-16-23:36:56.5219 108624 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10002
+10-16-23:37:06.5261 108624 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10002
+10-16-23:37:08.4371 108624 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:20001
+72 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10002
+10-16-07:33:29.9457 83272 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10002
+10-16-07:33:39.9590 83272 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10002
+10-16-07:33:49.9729 83272 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10002
+10-16-07:33:59.9918 83272 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10002
+10-16-07:34:10.0044 83272 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10002
+10-16-07:34:20.0221 83272 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10002
+10-16-07:34:30.0353 83272 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10002
+10-16-07:34:40.0545 83272 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10002
+10-16-07:34:50.0675 83272 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10002
+10-16-07:35:00.0835 83272 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10002
+10-16-07:35:10.0995 83272 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10002
+10-16-07:35:20.1150 83272 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10002
+10-16-07:35:30.1304 83272 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10002
+10-16-07:35:40.1479 83272 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10002
+10-16-07:35:50.1619 83272 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10002
+10-16-07:36:00.1793 83272 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10002
+10-16-07:36:10.1939 83272 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10002
+10-16-07:36:20.2088 83272 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10002
+10-16-07:36:30.2242 83272 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10002
+10-16-07:36:37.2049 83272 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:49999
+10-16-07:36:40.2414 83272 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10002
+10-16-07:36:47.2094 83272 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:49999
+10-16-07:36:50.2590 83272 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10002
